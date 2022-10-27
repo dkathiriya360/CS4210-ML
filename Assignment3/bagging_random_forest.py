@@ -109,7 +109,7 @@ clf.fit(X_training,y_training)
 #--> add your Python code here
 rf_true_Count = 0
 for i, testSample in enumerate(dbTest):
-    class_predicted_rf = clf.predict([testSample[:-1]])[0]
+    class_predicted_rf = clf.predict([testSample[:-1]])
 
     #compare the Random Forest prediction for each test sample with the ground truth label to calculate its accuracy
     #--> add your Python code here
