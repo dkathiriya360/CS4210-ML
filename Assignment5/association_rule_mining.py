@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Dharam Kathiriya
 # FILENAME: association_rule_mining.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Find strong rules for supermarket products using association rule mining.
 # FOR: CS 4210- Assignment #5
 # TIME SPENT: 2 hours
 #-----------------------------------------------------------*/
